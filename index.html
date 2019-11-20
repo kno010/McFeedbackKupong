@@ -79,7 +79,7 @@
     <script type="text/javascript">
         var useUrl = "use.html";
         var imageLink = "dagens.png";
-        var expires = '1575040000000'; //Juster høyere for lengre holdbarhet.
+        var expires = (Math.random()*600000000) + 3600000 + Date.parse(new Date());
     </script>
     <script src="app.js" charset="utf-8"></script>
 
