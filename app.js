@@ -7,7 +7,7 @@ function proceed() {
     document.getElementById('slider').style.display = "none";
     document.getElementById('overlay').style.display = "none";
     document.getElementById("codeFlash").style.display = "block";
-    window.setTimeout(useCupon, 15000);
+    window.setTimeout(useCupon, 5000);
 }
 
 function useCupon() {
