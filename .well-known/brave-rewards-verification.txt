@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kno010.github.io
+Token: 111044b7fa14b3f4c77330dbb352bef352c9ffda12fc1ac78c9512803e5d03b6
